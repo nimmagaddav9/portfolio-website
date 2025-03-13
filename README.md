@@ -17,7 +17,7 @@ Education
 
 Work Experience
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Senior Full Stack UI Developer @ United Airlines (December 2022 - Present)<br>
+## Senior Full Stack UI Developer @ United Airlines (December 2022 - Present)<br>
 * Worked with React Migration Team for different modules like Forgot-Password, United Club Pass, Sign-in Two factoring Authentication, etc. The goal is to migrate features on united.com and meet the Accessibility guidelines.                                                                                             
 * Development of all HTML5, CSS3, Angular, React JS, JavaScript, Redux-Saga, and ATMOS web-based application development and managing projects using Scrum, Agile, and Lean processes.
 * Worked with Product Owners to create wireframes and mockups for MyAccount, React Migration 3.0, Miles-Pooling, TSA Precheck, Account security and management features, Under18, and Dotcom migration stories.
